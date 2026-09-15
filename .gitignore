@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+Main App/.venv/
+.env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database
+Main App/data.db
+
+# Local/temporary (not part of the app)
+Main App/_to_delete/
+
+# Logs
+*.log
