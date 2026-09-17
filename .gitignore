@@ -4,7 +4,7 @@ __pycache__/
 
 # Virtual environment
 venv/
-Main App/.venv/
+Main-App/.venv/
 .env/
 .env
 
@@ -13,10 +13,10 @@ Main App/.venv/
 Thumbs.db
 
 # Database
-Main App/data.db
+Main-App/data.db
 
 # Local/temporary (not part of the app)
-Main App/_to_delete/
+Main-App/_to_delete/
 
 # Logs
 *.log
